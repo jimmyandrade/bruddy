@@ -4,6 +4,7 @@ buddydrive-pt_BR
 Tradução do BuddyDrive para Português (Brasil)
 
 Pré-requisitos
+
 1. WordPress
 2. BuddyPress 1.7 ou mais recente
 3. BuddyDrive
